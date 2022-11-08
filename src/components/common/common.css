@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+}
+
+.first {
+  width: 50%;
+}
+
+.second {
+  width: 50%;
+}
